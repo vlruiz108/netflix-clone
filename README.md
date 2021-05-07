@@ -1,5 +1,7 @@
 # netflix-clone
-![GitHub](https://img.shields.io/github/license/vlruiz108/netflix-clone)<br>
+![GitHub](https://img.shields.io/github/license/vlruiz108/netflix-clone)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7d94673-9d7f-4e5e-ad2f-15558405d94a/deploy-status)](https://app.netlify.com/sites/clone-interface-netflix/deploys)
+
 Projeto - Recriando a Interface do Netflix, desafio da Digital Innovation one
 
 :round_pushpin: Tecnologias
